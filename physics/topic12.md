@@ -6,6 +6,9 @@ A:
 Q: What effects might gravity have on the future of the Universe?
 A: It might be the force that slows the expansion of the Universe, possibly causing it to contract inwards.
 
+Q: What force might slow the expansion of the Universe, possibly causing it to contract inwards?
+A: Gravity.
+
 Q: What is the Big Crunch?
 A: The expansion of the Universe slows down to a stop, then starts to contract inwards.
 
@@ -23,4 +26,10 @@ A: The stars in the galaxies tend to rotate at similar speeds, whatever their di
 
 Q: What is Dark Matter?
 A: Mass that does not emit light, but must exist to create the centripetal force that keeps galaxies spinning.
+
+Q: What do we name mass that does not emit light, but must exist to create the centripetal force that keeps galaxies spinning?
+A: Dark Matter.
+
+Q: What is Dark Energy?
+A: The cause for the acceleration of the expansion of the Universe.
 
